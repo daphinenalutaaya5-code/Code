@@ -1,7 +1,4 @@
 # Code
-/**
- * @author PRICILLA
- */
 import java.util.Scanner;
 
 public class GradingSystemSingle {
